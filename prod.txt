@@ -3,3 +3,4 @@ git config --global user.email "2022cs_pruthvip_c@nie.ac.in"
 git clone https://github.com/Puhip/devops.git
 
 for changing the dir of folder name is ls;
+iubheiudcb
